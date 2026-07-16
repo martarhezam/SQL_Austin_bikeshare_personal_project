@@ -1,0 +1,701 @@
+start_station_name,trip_date,daily_trips,ranking,running_total
+10th & Red River,2024-03-13,23,1,23
+10th & Red River,2023-03-16,15,2,38
+10th & Red River,2024-03-14,15,2,53
+10th & Red River,2021-10-02,12,3,65
+10th & Red River,2023-03-15,12,3,77
+10th & Red River,2023-03-17,12,3,89
+10th & Red River,2022-05-29,12,3,101
+11th & Congress @ The Texas Capitol,2015-05-24,85,1,85
+11th & Congress @ The Texas Capitol,2015-03-22,62,2,147
+11th & Congress @ The Texas Capitol,2015-10-10,61,3,208
+11th & Salina,2023-01-16,8,1,8
+11th & Salina,2023-01-09,7,2,15
+11th & Salina,2023-10-07,6,3,21
+11th & Salina ,2018-09-26,24,1,24
+11th & Salina ,2018-10-13,22,2,46
+11th & Salina ,2018-09-23,22,2,68
+11th & Salina ,2019-03-14,21,3,89
+11th & Salina ,2018-10-03,21,3,110
+11th & San Jacinto,2018-03-17,26,1,26
+11th & San Jacinto,2018-03-12,23,2,49
+11th & San Jacinto,2016-03-16,22,3,71
+12th & San Jacinto @ State Capitol Visitors Garage,2015-02-15,26,1,26
+12th & San Jacinto @ State Capitol Visitors Garage,2014-07-05,22,2,48
+12th & San Jacinto @ State Capitol Visitors Garage,2014-03-14,22,2,70
+12th & San Jacinto @ State Capitol Visitors Garage,2015-09-12,21,3,91
+13th & San Antonio,2018-04-28,23,1,23
+13th & San Antonio,2018-03-13,19,2,42
+13th & San Antonio,2018-03-16,16,3,58
+13th & San Antonio,2017-03-18,16,3,74
+13th & Trinity,2021-11-13,17,1,17
+13th & Trinity,2022-02-20,11,2,28
+13th & Trinity,2021-10-21,11,2,39
+13th & Trinity,2021-11-28,10,3,49
+13th & Trinity @ Waterloo Greenway,2023-10-28,16,1,16
+13th & Trinity @ Waterloo Greenway,2024-04-08,13,2,29
+13th & Trinity @ Waterloo Greenway,2022-09-13,13,2,42
+13th & Trinity @ Waterloo Greenway,2023-11-04,13,2,55
+13th & Trinity @ Waterloo Greenway,2024-06-23,13,2,68
+13th & Trinity @ Waterloo Greenway,2023-10-01,12,3,80
+13th & Trinity @ Waterloo Greenway,2022-04-16,12,3,92
+13th & Trinity @ Waterloo Greenway,2023-03-18,12,3,104
+16th & San Antonio,2021-10-17,27,1,27
+16th & San Antonio,2022-10-14,27,1,54
+16th & San Antonio,2021-10-11,26,2,80
+16th & San Antonio,2022-11-10,26,2,106
+16th & San Antonio,2024-04-09,26,2,132
+16th & San Antonio,2023-09-14,25,3,157
+16th & San Antonio,2021-06-12,25,3,182
+1701 Barton Springs Road,2023-10-15,26,1,26
+1701 Barton Springs Road,2023-10-14,24,2,50
+1701 Barton Springs Road,2023-10-08,22,3,72
+17th & Guadalupe,2014-03-11,36,1,36
+17th & Guadalupe,2018-03-17,35,2,71
+17th & Guadalupe,2014-03-14,35,2,106
+17th & Guadalupe,2015-03-18,32,3,138
+21st & Guadalupe,2022-09-02,90,1,90
+21st & Guadalupe,2023-10-02,86,2,176
+21st & Guadalupe,2022-09-14,84,3,260
+21st & Guadalupe,2023-09-22,84,3,344
+21st & Speedway @ PCL,2023-09-25,268,1,268
+21st & Speedway @ PCL,2022-10-12,267,2,535
+21st & Speedway @ PCL,2023-10-17,252,3,787
+21st & Speedway @ PCL,2023-10-02,252,3,1039
+21st & Speedway @PCL,2018-03-06,611,1,611
+21st & Speedway @PCL,2018-03-05,580,2,1191
+21st & Speedway @PCL,2018-04-19,553,3,1744
+21st & University,2018-05-02,142,1,142
+21st & University,2018-04-12,123,2,265
+21st & University,2018-02-28,120,3,385
+22.5 & Rio Grande,2023-10-20,51,1,51
+22.5 & Rio Grande,2022-11-03,49,2,100
+22.5 & Rio Grande,2023-12-08,44,3,144
+22nd & Pearl,2018-03-02,199,1,199
+22nd & Pearl,2018-03-05,191,2,390
+22nd & Pearl,2018-02-28,189,3,579
+23rd & Pearl,2023-10-16,80,1,80
+23rd & Pearl,2022-10-14,79,2,159
+23rd & Pearl,2022-09-14,77,3,236
+23rd & Rio Grande,2018-04-19,201,1,201
+23rd & Rio Grande,2018-05-03,196,2,397
+23rd & Rio Grande,2018-04-18,183,3,580
+23rd & Rio Grande,2018-04-20,183,3,763
+23rd & San Gabriel,2022-04-28,57,1,57
+23rd & San Gabriel,2022-04-18,53,2,110
+23rd & San Gabriel,2022-02-01,51,3,161
+23rd & San Gabriel,2022-05-02,51,3,212
+23rd & San Jacinto @ DKR Stadium,2018-02-28,104,1,104
+23rd & San Jacinto @ DKR Stadium,2018-02-26,91,2,195
+23rd & San Jacinto @ DKR Stadium,2018-02-27,85,3,280
+26th & Nueces,2022-08-29,123,1,123
+26th & Nueces,2022-09-01,122,2,245
+26th & Nueces,2022-10-13,119,3,364
+28th & Rio,2022-10-27,85,1,85
+28th & Rio,2022-10-14,78,2,163
+28th & Rio,2022-09-30,78,2,241
+28th & Rio,2022-09-28,77,3,318
+28th & Rio Grande,2023-10-13,92,1,92
+28th & Rio Grande,2021-09-23,90,2,182
+28th & Rio Grande,2023-10-02,89,3,271
+2nd & Congress,2015-03-15,176,1,176
+2nd & Congress,2015-03-14,170,2,346
+2nd & Congress,2015-03-16,144,3,490
+2nd & Lavaca @ City Hall,2014-03-15,120,1,120
+2nd & Lavaca @ City Hall,2014-03-11,116,2,236
+2nd & Lavaca @ City Hall,2014-03-14,109,3,345
+3rd & Nueces,2021-10-02,31,1,31
+3rd & Nueces,2021-10-03,29,2,60
+3rd & Nueces,2022-04-16,29,2,89
+3rd & Nueces,2022-08-27,28,3,117
+3rd & Nueces,2022-04-10,28,3,145
+3rd & Nueces,2020-09-19,28,3,173
+3rd & Trinity @ The Convention Center,2015-03-16,152,1,152
+3rd & Trinity @ The Convention Center,2015-03-17,144,2,296
+3rd & Trinity @ The Convention Center,2015-03-15,142,3,438
+3rd & West,2016-10-01,62,1,62
+3rd & West,2016-10-07,58,2,120
+3rd & West,2016-10-08,56,3,176
+3rd & West,2016-10-02,56,3,232
+4th & Congress,2014-03-14,132,1,132
+4th & Congress,2015-03-19,126,2,258
+4th & Congress,2015-03-14,113,3,371
+4th & Guadalupe @ Republic Square,2021-05-29,34,1,34
+4th & Guadalupe @ Republic Square,2021-05-31,23,2,57
+4th & Guadalupe @ Republic Square,2023-03-11,22,3,79
+4th & Guadalupe @ Republic Square,2021-10-09,22,3,101
+4th & Guadalupe @ Republic Square,2022-03-26,22,3,123
+4th & Neches @ MetroRail Downtown,2019-06-08,5,1,5
+4th & Neches @ MetroRail Downtown,2019-06-04,5,1,10
+4th & Neches @ MetroRail Downtown,2019-06-07,4,2,14
+4th & Neches @ MetroRail Downtown,2019-06-13,4,2,18
+4th & Neches @ MetroRail Downtown,2019-06-09,3,3,21
+4th & Neches @ MetroRail Downtown,2019-06-06,3,3,24
+4th & Sabine,2022-04-07,21,1,21
+4th & Sabine,2022-04-08,20,2,41
+4th & Sabine,2022-04-26,20,2,61
+4th & Sabine,2024-03-13,19,3,80
+4th & Sabine,2022-03-19,19,3,99
+4th & Sabine,2023-09-16,19,3,118
+5th & Bowie,2015-03-14,104,1,104
+5th & Bowie,2015-03-19,101,2,205
+5th & Bowie,2015-03-16,101,2,306
+5th & Bowie,2017-03-18,95,3,401
+5th & Campbell,2021-03-27,19,1,19
+5th & Campbell,2021-10-09,18,2,37
+5th & Campbell,2022-10-16,16,3,53
+5th & Guadalupe @ Republic Square,2019-06-29,8,1,8
+5th & Guadalupe @ Republic Square,2019-09-07,7,2,15
+5th & Guadalupe @ Republic Square,2019-07-13,7,2,22
+5th & Guadalupe @ Republic Square,2019-07-05,6,3,28
+5th & Guadalupe @ Republic Square,2019-10-06,6,3,34
+5th & Guadalupe @ Republic Square,2019-10-14,6,3,40
+5th & Guadalupe @ Republic Square,2019-10-05,6,3,46
+5th & Guadalupe @ Republic Square,2019-06-01,6,3,52
+5th & Guadalupe @ Republic Square,2019-10-21,6,3,58
+5th & Guadalupe @ Republic Square,2019-06-23,6,3,64
+5th & San Marcos,2015-03-19,146,1,146
+5th & San Marcos,2015-03-18,139,2,285
+5th & San Marcos,2016-03-17,118,3,403
+6th & Brazos,2022-05-13,16,1,16
+6th & Brazos,2022-05-14,16,1,32
+6th & Brazos,2022-04-23,16,1,48
+6th & Brazos,2021-05-14,15,2,63
+6th & Brazos,2022-07-08,14,3,77
+6th & Brazos,2021-06-04,14,3,91
+6th & Brazos,2022-05-27,14,3,105
+6th & Brazos,2022-03-04,14,3,119
+6th & Chalmers,2023-04-01,26,1,26
+6th & Chalmers,2024-04-07,22,2,48
+6th & Chalmers,2023-06-02,19,3,67
+6th & Chalmers ,2021-12-04,21,1,21
+6th & Chalmers ,2020-06-20,17,2,38
+6th & Chalmers ,2021-06-21,17,2,55
+6th & Chalmers ,2020-09-20,16,3,71
+6th & Chalmers ,2021-05-29,16,3,87
+6th & Chalmers ,2021-11-13,16,3,103
+6th & Chalmers ,2021-04-06,16,3,119
+6th & Congress,2018-03-10,60,1,60
+6th & Congress,2018-03-14,45,2,105
+6th & Congress,2017-03-18,41,3,146
+6th & Lavaca,2015-10-11,23,1,23
+6th & Lavaca,2020-08-01,18,2,41
+6th & Lavaca,2015-10-10,17,3,58
+6th & Trinity,2015-03-18,111,1,111
+6th & Trinity,2015-03-19,111,1,222
+6th & Trinity,2014-03-14,103,2,325
+6th & Trinity,2015-03-14,95,3,420
+6th & West,2014-03-15,85,1,85
+6th & West,2014-03-14,73,2,158
+6th & West,2015-03-19,71,3,229
+8th & Congress,2015-03-17,73,1,73
+8th & Congress,2014-03-14,70,2,143
+8th & Congress,2014-03-10,66,3,209
+8th & Lavaca,2022-02-21,23,1,23
+8th & Lavaca,2022-03-03,19,2,42
+8th & Lavaca,2021-12-30,16,3,58
+8th & Red River,2014-03-14,157,1,157
+8th & Red River,2015-03-19,134,2,291
+8th & Red River,2014-03-15,124,3,415
+8th & San Jacinto,2014-03-13,84,1,84
+8th & San Jacinto,2014-03-14,64,2,148
+8th & San Jacinto,2014-03-15,52,3,200
+9th & Henderson,2022-02-19,25,1,25
+9th & Henderson,2021-02-21,24,2,49
+9th & Henderson,2024-03-23,23,3,72
+ACC - Rio Grande & 12th,2014-03-14,29,1,29
+ACC - Rio Grande & 12th,2015-01-17,17,2,46
+ACC - Rio Grande & 12th,2014-04-19,15,3,61
+ACC - Rio Grande & 12th,2014-11-01,15,3,76
+ACC - West & 12th Street,2015-03-14,28,1,28
+ACC - West & 12th Street,2014-03-15,27,2,55
+ACC - West & 12th Street,2015-03-19,25,3,80
+Barton Springs & Bouldin @ Palmer Auditorium,2015-03-14,102,1,102
+Barton Springs & Bouldin @ Palmer Auditorium,2014-03-14,101,2,203
+Barton Springs & Bouldin @ Palmer Auditorium,2015-03-15,86,3,289
+Barton Springs & Kinney,2015-02-14,70,1,70
+Barton Springs & Kinney,2015-03-19,67,2,137
+Barton Springs & Kinney,2015-03-15,67,2,204
+Barton Springs & Kinney,2014-10-11,63,3,267
+Barton Springs & Riverside,2015-03-15,102,1,102
+Barton Springs & Riverside,2015-03-16,85,2,187
+Barton Springs & Riverside,2015-03-14,83,3,270
+Barton Springs @ Kinney Ave,2017-10-06,87,1,87
+Barton Springs @ Kinney Ave,2017-10-14,85,2,172
+Barton Springs @ Kinney Ave,2016-10-08,81,3,253
+Barton Springs Pool,2017-02-18,55,1,55
+Barton Springs Pool,2017-05-27,53,2,108
+Barton Springs Pool,2018-03-30,47,3,155
+Boardwalk West,2018-03-31,53,1,53
+Boardwalk West,2024-04-05,46,2,99
+Boardwalk West,2023-10-08,43,3,142
+Brazos & 6th,2016-03-12,63,1,63
+Brazos & 6th,2016-10-01,57,2,120
+Brazos & 6th,2016-03-17,57,2,177
+Brazos & 6th,2016-03-18,56,3,233
+Bullock Museum @ Congress & MLK,2014-10-18,57,1,57
+Bullock Museum @ Congress & MLK,2014-11-08,55,2,112
+Bullock Museum @ Congress & MLK,2014-10-04,54,3,166
+Capital Metro HQ - East 5th at Broadway,2017-11-11,20,1,20
+Capital Metro HQ - East 5th at Broadway,2018-03-16,16,2,36
+Capital Metro HQ - East 5th at Broadway,2018-03-15,14,3,50
+Capital Metro HQ - East 5th at Broadway,2017-11-12,14,3,64
+Capitol Station  &  Congress & 11th,2016-05-29,67,1,67
+Capitol Station  &  Congress & 11th,2018-03-24,64,2,131
+Capitol Station  &  Congress & 11th,2018-05-05,59,3,190
+Cesar Chavez & Congress,2024-04-07,52,1,52
+Cesar Chavez & Congress,2022-03-05,37,2,89
+Cesar Chavez & Congress,2023-03-04,36,3,125
+City Hall  &  Lavaca & 2nd,2016-10-02,85,1,85
+City Hall  &  Lavaca & 2nd,2017-03-15,82,2,167
+City Hall  &  Lavaca & 2nd,2016-05-29,75,3,242
+Congress & Cesar Chavez,2018-04-14,45,1,45
+Congress & Cesar Chavez,2017-10-08,43,2,88
+Congress & Cesar Chavez,2018-05-27,40,3,128
+Convention Center  &  3rd & Trinity,2016-03-13,131,1,131
+Convention Center  &  3rd & Trinity,2016-03-17,129,2,260
+Convention Center  &  3rd & Trinity,2017-03-16,126,3,386
+Convention Center  &  4th St. @ MetroRail,2016-03-18,185,1,185
+Convention Center  &  4th St. @ MetroRail,2016-03-15,161,2,346
+Convention Center  &  4th St. @ MetroRail,2016-03-17,159,3,505
+Customer Service,2014-12-03,2,1,2
+Customer Service,2015-02-14,1,2,3
+Customer Service,2014-06-10,1,2,4
+Davis at Rainey Street,2016-03-17,186,1,186
+Davis at Rainey Street,2018-03-16,168,2,354
+Davis at Rainey Street,2018-03-10,163,3,517
+Dean Keeton & Park Place,2023-11-17,21,1,21
+Dean Keeton & Park Place,2023-10-27,20,2,41
+Dean Keeton & Park Place,2023-10-09,18,3,59
+Dean Keeton & Speedway,2014-03-11,281,1,281
+Dean Keeton & Speedway,2014-03-14,248,2,529
+Dean Keeton & Speedway,2015-03-19,234,3,763
+Dean Keeton & Speedway ,2018-05-03,236,1,236
+Dean Keeton & Speedway ,2018-04-18,231,2,467
+Dean Keeton & Speedway ,2018-04-17,230,3,697
+Dean Keeton & Whitis,2018-03-22,167,1,167
+Dean Keeton & Whitis,2023-09-26,158,2,325
+Dean Keeton & Whitis,2018-03-05,157,3,482
+East 11th & San Marcos,2014-03-15,43,1,43
+East 11th & San Marcos,2014-03-14,35,2,78
+East 11th & San Marcos,2015-03-18,34,3,112
+East 11th & San Marcos,2015-03-17,34,3,146
+East 11th & Victory Grill,2014-03-14,41,1,41
+East 11th & Victory Grill,2014-03-15,38,2,79
+East 11th & Victory Grill,2015-03-16,34,3,113
+East 11th St. & San Marcos,2016-10-08,31,1,31
+East 11th St. & San Marcos,2017-03-15,28,2,59
+East 11th St. & San Marcos,2016-03-15,26,3,85
+East 11th St. & San Marcos,2017-04-07,26,3,111
+East 11th St. at Victory Grill,2017-10-08,27,1,27
+East 11th St. at Victory Grill,2016-11-11,23,2,50
+East 11th St. at Victory Grill,2016-10-08,21,3,71
+East 2nd & Pedernales,2018-03-24,36,1,36
+East 2nd & Pedernales,2016-02-19,27,2,63
+East 2nd & Pedernales,2017-04-15,23,3,86
+East 4th & Chicon,2016-03-17,32,1,32
+East 4th & Chicon,2016-03-18,31,2,63
+East 4th & Chicon,2018-04-27,29,3,92
+East 4th & Chicon,2018-03-10,29,3,121
+East 4th & Chicon,2016-10-08,29,3,150
+East 5th & Broadway @ Capital Metro HQ,2014-11-23,16,1,16
+East 5th & Broadway @ Capital Metro HQ,2024-02-24,16,1,32
+East 5th & Broadway @ Capital Metro HQ,2023-02-19,15,2,47
+East 5th & Broadway @ Capital Metro HQ,2022-02-21,15,2,62
+East 5th & Broadway @ Capital Metro HQ,2024-04-05,14,3,76
+East 5th & Shady @ Eastside Bus Plaza,2022-10-21,17,1,17
+East 5th & Shady @ Eastside Bus Plaza,2023-05-20,16,2,33
+East 5th & Shady @ Eastside Bus Plaza,2023-04-30,14,3,47
+East 5th & Shady Ln,2020-12-06,4,1,4
+East 5th & Shady Ln,2020-11-22,2,2,6
+East 5th & Shady Ln,2020-12-24,2,2,8
+East 5th & Shady Ln,2020-12-19,2,2,10
+East 5th & Shady Ln,2020-12-13,2,2,12
+East 5th & Shady Ln,2020-11-29,2,2,14
+East 5th & Shady Ln,2020-12-27,1,3,15
+East 5th & Shady Ln,2020-11-28,1,3,16
+East 5th & Shady Ln,2020-11-27,1,3,17
+East 6th & Medina,2024-03-14,35,1,35
+East 6th & Medina,2024-03-13,34,2,69
+East 6th & Medina,2022-04-03,31,3,100
+East 6th & Pedernales,2014-03-14,80,1,80
+East 6th & Pedernales,2014-03-11,74,2,154
+East 6th & Pedernales,2014-03-13,73,3,227
+East 6th & Pedernales St.,2016-04-23,28,1,28
+East 6th & Pedernales St.,2016-03-16,20,2,48
+East 6th & Pedernales St.,2018-03-10,18,3,66
+East 6th & Pedernales St.,2016-11-13,18,3,84
+East 6th & Robert T. Martinez,2015-03-15,38,1,38
+East 6th & Robert T. Martinez,2015-03-17,36,2,74
+East 6th & Robert T. Martinez,2015-03-16,27,3,101
+East 6th & Robert T. Martinez,2015-03-19,27,3,128
+East 6th at Robert Martinez,2016-03-18,30,1,30
+East 6th at Robert Martinez,2016-03-19,30,1,60
+East 6th at Robert Martinez,2016-03-16,28,2,88
+East 6th at Robert Martinez,2018-03-16,27,3,115
+East 7th & Pleasant Valley,2016-03-16,8,1,8
+East 7th & Pleasant Valley,2016-04-06,8,1,16
+East 7th & Pleasant Valley,2016-03-12,7,2,23
+East 7th & Pleasant Valley,2016-05-18,7,2,30
+East 7th & Pleasant Valley,2016-04-18,7,2,37
+East 7th & Pleasant Valley,2016-09-29,6,3,43
+East 7th & Pleasant Valley,2016-10-09,6,3,49
+East 7th & Pleasant Valley,2016-11-12,6,3,55
+Eeyore's 2017,2018-04-28,1,1,1
+Eeyore's 2018,2018-04-28,2,1,2
+Electric Drive & Sandra Muraida Way @ Pfluger Ped Bridge,2015-10-03,91,1,91
+Electric Drive & Sandra Muraida Way @ Pfluger Ped Bridge,2015-10-04,88,2,179
+Electric Drive & Sandra Muraida Way @ Pfluger Ped Bridge,2015-10-11,81,3,260
+Guadalupe & 21st,2018-03-05,132,1,132
+Guadalupe & 21st,2018-03-06,131,2,263
+Guadalupe & 21st,2018-03-07,116,3,379
+Guadalupe & 6th,2017-03-15,42,1,42
+Guadalupe & 6th,2017-03-17,33,2,75
+Guadalupe & 6th,2017-03-18,30,3,105
+Guadalupe & West Mall @ University Co-op,2022-09-06,96,1,96
+Guadalupe & West Mall @ University Co-op,2022-10-12,93,2,189
+Guadalupe & West Mall @ University Co-op,2023-09-12,81,3,270
+Guadalupe & West Mall @ University Co-op,2022-10-10,81,3,351
+Henderson & 9th,2018-03-17,30,1,30
+Henderson & 9th,2018-03-14,29,2,59
+Henderson & 9th,2018-03-15,26,3,85
+Hollow Creek & Barton Hills,2022-10-08,24,1,24
+Hollow Creek & Barton Hills,2022-10-07,19,2,43
+Hollow Creek & Barton Hills,2022-07-04,18,3,61
+Lake Austin & Enfield,2022-10-08,20,1,20
+Lake Austin & Enfield,2023-10-15,17,2,37
+Lake Austin & Enfield,2024-02-24,16,3,53
+Lake Austin & Enfield,2020-09-05,16,3,69
+Lake Austin Blvd & Deep Eddy,2023-03-04,24,1,24
+Lake Austin Blvd & Deep Eddy,2024-04-06,22,2,46
+Lake Austin Blvd & Deep Eddy,2023-10-14,22,2,68
+Lake Austin Blvd & Deep Eddy,2024-03-13,21,3,89
+Lake Austin Blvd @ Deep Eddy,2018-04-29,23,1,23
+Lake Austin Blvd @ Deep Eddy,2018-05-12,17,2,40
+Lake Austin Blvd @ Deep Eddy,2018-03-17,15,3,55
+Lake Austin Blvd @ Deep Eddy,2018-03-10,15,3,70
+Lakeshore & Austin Hostel,2024-04-07,59,1,59
+Lakeshore & Austin Hostel,2021-03-20,49,2,108
+Lakeshore & Austin Hostel,2023-10-08,48,3,156
+Lakeshore & Pleasant Valley,2020-10-18,35,1,35
+Lakeshore & Pleasant Valley,2022-01-01,32,2,67
+Lakeshore & Pleasant Valley,2020-10-17,32,2,99
+Lakeshore & Pleasant Valley,2022-03-25,31,3,130
+Lakeshore & Pleasant Valley,2024-03-23,31,3,161
+Lakeshore @ Austin Hostel,2018-12-31,33,1,33
+Lakeshore @ Austin Hostel,2018-12-27,25,2,58
+Lakeshore @ Austin Hostel,2019-03-16,23,3,81
+Lavaca & 6th,2016-03-17,55,1,55
+Lavaca & 6th,2016-03-18,34,2,89
+Lavaca & 6th,2018-03-15,34,2,123
+Lavaca & 6th,2016-10-08,33,3,156
+Long Center @ South 1st & Riverside,2016-03-12,80,1,80
+Long Center @ South 1st & Riverside,2016-03-19,77,2,157
+Long Center @ South 1st & Riverside,2016-12-31,73,3,230
+Main Office,2017-07-12,2,1,2
+Main Office,2017-03-10,2,1,4
+Main Office,2017-10-05,1,2,5
+Main Office,2017-01-18,1,2,6
+Main Office,2017-07-28,1,2,7
+Main Office,2017-07-07,1,2,8
+Main Office,2017-03-07,1,2,9
+Main Office,2017-07-29,1,2,10
+Main Office,2017-10-19,1,2,11
+Main Office,2017-07-31,1,2,12
+Main Office,2017-01-20,1,2,13
+Main Office,2017-01-06,1,2,14
+Main Office,2017-03-27,1,2,15
+Main Office,2017-01-12,1,2,16
+Main Office,2017-07-26,1,2,17
+Main Office,2017-03-20,1,2,18
+Main Office,2017-10-18,1,2,19
+Main Office,2017-07-16,1,2,20
+Main Office,2017-07-21,1,2,21
+Main Office,2017-03-01,1,2,22
+Main Office,2017-03-15,1,2,23
+Main Office,2017-10-26,1,2,24
+Main Office,2017-01-26,1,2,25
+MapJam at French Legation,2015-02-21,26,1,26
+MapJam at Hops & Grain Brewery,2014-02-15,17,1,17
+MapJam at Pan Am Park,2015-02-21,32,1,32
+MapJam at Scoot Inn,2015-02-21,11,1,11
+Marketing Event,2015-08-20,4,1,4
+Medina & East 6th,2017-03-18,68,1,68
+Medina & East 6th,2018-03-17,54,2,122
+Medina & East 6th,2017-03-17,49,3,171
+MoPac Pedestrian Bridge @ Veterans Drive,2017-02-18,71,1,71
+MoPac Pedestrian Bridge @ Veterans Drive,2018-04-14,69,2,140
+MoPac Pedestrian Bridge @ Veterans Drive,2017-03-25,64,3,204
+Mobile Station,2014-08-06,1,1,1
+Mobile Station @ Boardwalk Opening Ceremony,2014-06-11,7,1,7
+Mobile Station @ Boardwalk Opening Ceremony,2014-06-07,2,2,9
+Mobile Station @ Unplugged,2014-06-19,2,1,2
+Mobile Station @ Unplugged,2014-08-21,1,2,3
+Mobile Station @ Unplugged,2014-07-17,1,2,4
+Nash Hernandez & East @ RBJ South,2021-03-20,55,1,55
+Nash Hernandez & East @ RBJ South,2024-04-07,53,2,108
+Nash Hernandez & East @ RBJ South,2021-05-31,36,3,144
+Nash Hernandez @ RBJ South,2019-05-25,21,1,21
+Nash Hernandez @ RBJ South,2019-04-27,18,2,39
+Nash Hernandez @ RBJ South,2018-09-01,17,3,56
+Nueces & 26th,2018-03-06,188,1,188
+Nueces & 26th,2018-03-07,174,2,362
+Nueces & 26th,2018-03-01,158,3,520
+Nueces & 26th,2018-03-21,158,3,678
+Nueces & 3rd,2018-03-17,35,1,35
+Nueces & 3rd,2017-03-14,35,1,70
+Nueces & 3rd,2018-04-14,33,2,103
+Nueces & 3rd,2017-03-15,31,3,134
+Nueces @ 3rd,2015-10-04,51,1,51
+Nueces @ 3rd,2015-10-10,45,2,96
+Nueces @ 3rd,2015-06-13,41,3,137
+One Texas Center,2022-10-08,23,1,23
+One Texas Center,2022-10-09,14,2,37
+One Texas Center,2022-10-15,14,2,51
+One Texas Center,2023-10-09,11,3,62
+Palmer Auditorium,2018-03-10,68,1,68
+Palmer Auditorium,2016-03-12,62,2,130
+Palmer Auditorium,2017-03-18,60,3,190
+Pease Park,2017-01-01,14,1,14
+Pease Park,2016-12-31,14,1,28
+Pease Park,2017-03-25,13,2,41
+Pease Park,2017-02-19,12,3,53
+Pease Park,2016-09-29,12,3,65
+Pfluger Bridge @ W 2nd Street,2016-10-08,100,1,100
+Pfluger Bridge @ W 2nd Street,2016-10-02,94,2,194
+Pfluger Bridge @ W 2nd Street,2016-10-09,90,3,284
+Plaza Saltillo,2017-03-18,89,1,89
+Plaza Saltillo,2018-03-15,69,2,158
+Plaza Saltillo,2016-03-17,66,3,224
+Plaza Saltillo,2017-03-17,66,3,290
+Rainey & Cummings,2015-03-14,91,1,91
+Rainey & Cummings,2015-03-19,84,2,175
+Rainey & Cummings,2024-04-07,82,3,257
+Rainey & Davis,2014-03-15,197,1,197
+Rainey & Davis,2014-03-13,144,2,341
+Rainey & Davis,2014-03-14,138,3,479
+Rainey & Driskill,2023-03-13,35,1,35
+Rainey & Driskill,2023-03-17,30,2,65
+Rainey & Driskill,2024-03-10,26,3,91
+Rainey @ River St,2015-03-15,139,1,139
+Rainey @ River St,2015-03-19,132,2,271
+Rainey @ River St,2015-03-14,131,3,402
+Rainey St @ Cummings,2016-03-12,87,1,87
+Rainey St @ Cummings,2017-03-18,86,2,173
+Rainey St @ Cummings,2016-10-08,84,3,257
+Re-branding,2015-10-01,2,1,2
+Re-branding,2015-07-09,1,2,3
+Re-branding,2015-06-08,1,2,4
+Re-branding,2017-07-19,1,2,5
+Ready for deployment,2015-03-19,4,1,4
+Ready for deployment,2014-04-10,3,2,7
+Ready for deployment,2015-03-20,3,2,10
+Ready for deployment,2015-09-24,3,2,13
+Ready for deployment,2015-04-01,3,2,16
+Ready for deployment,2014-03-04,3,2,19
+Ready for deployment,2015-11-30,3,2,22
+Ready for deployment,2015-11-17,3,2,25
+Ready for deployment,2015-10-05,3,2,28
+Ready for deployment,2014-04-07,2,3,72
+Ready for deployment,2015-09-23,2,3,130
+Ready for deployment,2015-09-28,2,3,34
+Ready for deployment,2015-06-02,2,3,36
+Ready for deployment,2014-07-08,2,3,38
+Ready for deployment,2014-09-30,2,3,40
+Ready for deployment,2015-06-12,2,3,42
+Ready for deployment,2014-10-06,2,3,44
+Ready for deployment,2015-08-07,2,3,46
+Ready for deployment,2015-10-22,2,3,48
+Ready for deployment,2015-03-15,2,3,50
+Ready for deployment,2015-09-12,2,3,52
+Ready for deployment,2014-12-02,2,3,54
+Ready for deployment,2014-10-07,2,3,56
+Ready for deployment,2014-07-24,2,3,58
+Ready for deployment,2015-06-05,2,3,60
+Ready for deployment,2015-12-02,2,3,62
+Ready for deployment,2015-01-08,2,3,64
+Ready for deployment,2015-06-17,2,3,66
+Ready for deployment,2014-04-29,2,3,68
+Ready for deployment,2015-09-29,2,3,70
+Ready for deployment,2014-07-18,2,3,30
+Ready for deployment,2014-05-12,2,3,74
+Ready for deployment,2014-08-18,2,3,76
+Ready for deployment,2014-10-01,2,3,78
+Ready for deployment,2015-03-25,2,3,80
+Ready for deployment,2014-07-14,2,3,82
+Ready for deployment,2014-05-14,2,3,84
+Ready for deployment,2015-03-05,2,3,86
+Ready for deployment,2014-12-19,2,3,88
+Ready for deployment,2015-08-03,2,3,90
+Ready for deployment,2015-12-09,2,3,92
+Ready for deployment,2015-01-06,2,3,94
+Ready for deployment,2015-05-08,2,3,96
+Ready for deployment,2015-03-26,2,3,98
+Ready for deployment,2015-10-06,2,3,100
+Ready for deployment,2015-10-19,2,3,102
+Ready for deployment,2014-08-07,2,3,104
+Ready for deployment,2014-05-27,2,3,106
+Ready for deployment,2014-04-15,2,3,108
+Ready for deployment,2015-03-17,2,3,110
+Ready for deployment,2014-08-08,2,3,112
+Ready for deployment,2014-11-05,2,3,114
+Ready for deployment,2015-11-16,2,3,116
+Ready for deployment,2015-12-10,2,3,118
+Ready for deployment,2014-05-28,2,3,120
+Ready for deployment,2015-11-19,2,3,122
+Ready for deployment,2015-04-24,2,3,124
+Ready for deployment,2014-08-20,2,3,126
+Ready for deployment,2015-03-16,2,3,128
+Ready for deployment,2014-11-06,2,3,32
+Red River & 8th Street,2016-03-18,118,1,118
+Red River & 8th Street,2017-03-17,114,2,232
+Red River & 8th Street,2018-03-15,106,3,338
+Red River & Cesar Chavez @ The Fairmont,2022-02-19,35,1,35
+Red River & Cesar Chavez @ The Fairmont,2021-10-09,27,2,62
+Red River & Cesar Chavez @ The Fairmont,2020-06-27,26,3,88
+Repair Shop,2014-05-31,2,1,2
+Repair Shop,2018-01-30,1,2,3
+Repair Shop,2014-11-21,1,2,4
+Repair Shop,2015-02-18,1,2,5
+Repair Shop,2014-03-27,1,2,6
+Repair Shop,2014-09-12,1,2,7
+Repair Shop,2014-02-19,1,2,8
+Repair Shop,2014-03-12,1,2,9
+Repair Shop,2014-07-16,1,2,10
+Repair Shop,2014-03-17,1,2,11
+Repair Shop,2014-02-04,1,2,12
+Repair Shop,2015-03-13,1,2,13
+Repair Shop,2015-03-12,1,2,14
+Repair Shop,2018-03-29,1,2,15
+Republic Square,2016-05-29,19,1,19
+Republic Square,2016-05-21,11,2,30
+Republic Square,2016-05-28,11,2,41
+Republic Square,2016-05-25,11,2,52
+Republic Square,2016-05-22,10,3,62
+Republic Square ,2014-01-19,26,1,26
+Republic Square ,2014-01-18,18,2,44
+Republic Square ,2013-12-29,18,2,62
+Republic Square ,2014-01-22,16,3,78
+Republic Square @ 5th & Guadalupe,2018-03-15,30,1,30
+Republic Square @ 5th & Guadalupe,2018-03-14,25,2,55
+Republic Square @ 5th & Guadalupe,2018-03-16,24,3,79
+Republic Square @ 5th & Guadalupe,2018-04-28,24,3,103
+Republic Square @ 5th & Guadalupe,2018-03-09,24,3,127
+Republic Square @ Federal Courthouse Plaza,2016-09-04,35,1,35
+Republic Square @ Federal Courthouse Plaza,2016-10-01,32,2,67
+Republic Square @ Federal Courthouse Plaza,2016-10-02,30,3,97
+Republic Square @ Guadalupe & 4th St.,2014-03-15,106,1,106
+Republic Square @ Guadalupe & 4th St.,2015-03-14,90,2,196
+Republic Square @ Guadalupe & 4th St.,2015-03-19,81,3,277
+Rio Grande & 12th,2022-03-14,16,1,16
+Rio Grande & 12th,2024-03-15,15,2,31
+Rio Grande & 12th,2024-03-05,14,3,45
+Rio Grande & 12th,2023-04-29,14,3,59
+Rio Grande & 28th,2018-05-03,161,1,161
+Rio Grande & 28th,2018-04-26,152,2,313
+Rio Grande & 28th,2018-04-27,144,3,457
+Riverside & South Lamar,2015-05-24,97,1,97
+Riverside & South Lamar,2014-05-25,86,2,183
+Riverside & South Lamar,2015-02-14,83,3,266
+Riverside @ S. Lamar,2017-03-25,101,1,101
+Riverside @ S. Lamar,2017-02-18,98,2,199
+Riverside @ S. Lamar,2017-10-14,92,3,291
+Rosewood & Angelina,2024-04-11,10,1,10
+Rosewood & Angelina,2024-01-18,9,2,19
+Rosewood & Angelina,2020-12-20,9,2,28
+Rosewood & Angelina,2019-02-17,9,2,37
+Rosewood & Angelina,2021-10-16,8,3,45
+Rosewood & Angelina,2023-10-22,8,3,53
+Rosewood & Angelina,2023-02-19,8,3,61
+Rosewood & Angelina,2024-06-16,8,3,69
+Rosewood & Angelina,2023-10-28,8,3,77
+Rosewood & Angelina,2024-02-18,8,3,85
+Rosewood & Chicon,2021-06-27,12,1,12
+Rosewood & Chicon,2021-06-24,11,2,23
+Rosewood & Chicon,2022-03-26,10,3,33
+Rosewood & Chicon,2021-06-19,10,3,43
+San Jacinto & 8th Street,2016-03-16,40,1,40
+San Jacinto & 8th Street,2016-03-18,39,2,79
+San Jacinto & 8th Street,2016-03-17,39,2,118
+San Jacinto & 8th Street,2018-03-17,37,3,155
+San Jacinto & 8th Street,2016-11-10,37,3,192
+South 1st & Riverside @ Long Center,2015-03-19,125,1,125
+South 1st & Riverside @ Long Center,2015-03-15,125,1,250
+South 1st & Riverside @ Long Center,2015-03-14,121,2,371
+South 1st & Riverside @ Long Center,2014-03-14,110,3,481
+South Congress & Academy,2015-03-14,71,1,71
+South Congress & Academy,2015-03-19,68,2,139
+South Congress & Academy,2014-10-11,65,3,204
+South Congress & Barton Springs @ The Austin American-Statesman,2022-10-02,38,1,38
+South Congress & Barton Springs @ The Austin American-Statesman,2024-04-06,33,2,71
+South Congress & Barton Springs @ The Austin American-Statesman,2023-05-28,33,2,104
+South Congress & Barton Springs @ The Austin American-Statesman,2022-10-22,32,3,136
+South Congress & Barton Springs @ The Austin American-Statesman,2024-04-07,32,3,168
+South Congress & Barton Springs at the Austin American-Statesman,2017-04-15,83,1,83
+South Congress & Barton Springs at the Austin American-Statesman,2016-10-01,65,2,148
+South Congress & Barton Springs at the Austin American-Statesman,2016-10-02,60,3,208
+South Congress & Elizabeth,2015-03-14,60,1,60
+South Congress & Elizabeth,2014-03-15,53,2,113
+South Congress & Elizabeth,2015-03-15,51,3,164
+South Congress & James,2014-03-14,81,1,81
+South Congress & James,2014-03-15,70,2,151
+South Congress & James,2014-03-13,63,3,214
+South Congress & Mary,2023-04-29,19,1,19
+South Congress & Mary,2024-04-13,17,2,36
+South Congress & Mary,2024-03-13,17,2,53
+South Congress & Mary,2023-09-22,16,3,69
+South Congress & Mary,2024-03-31,16,3,85
+South Congress & Mary,2023-10-14,16,3,101
+South Congress @ Bouldin Creek,2021-03-27,21,1,21
+South Congress @ Bouldin Creek,2023-10-07,21,1,42
+South Congress @ Bouldin Creek,2022-09-10,20,2,62
+South Congress @ Bouldin Creek,2022-08-28,20,2,82
+South Congress @ Bouldin Creek,2021-04-24,20,2,102
+South Congress @ Bouldin Creek,2024-04-13,19,3,121
+South Congress @ Bouldin Creek,2024-04-11,19,3,140
+Springfest 2022,2022-03-13,17,1,17
+Springfest 2022,2022-03-14,11,2,28
+Springfest 2022,2022-03-15,2,3,30
+Springfest 2022,2022-03-12,2,3,32
+State Capitol @ 14th & Colorado,2015-03-15,27,1,27
+State Capitol @ 14th & Colorado,2014-03-11,25,2,52
+State Capitol @ 14th & Colorado,2014-03-14,24,3,76
+State Capitol @ 14th & Colorado,2014-11-29,24,3,100
+State Capitol Visitors Garage @ San Jacinto & 12th,2016-09-04,29,1,29
+State Capitol Visitors Garage @ San Jacinto & 12th,2018-03-17,24,2,53
+State Capitol Visitors Garage @ San Jacinto & 12th,2018-03-10,23,3,76
+Sterzing & Barton Springs,2021-10-09,103,1,103
+Sterzing & Barton Springs,2021-10-08,89,2,192
+Sterzing & Barton Springs,2022-10-08,84,3,276
+Sterzing at Barton Springs,2018-10-12,108,1,108
+Sterzing at Barton Springs,2018-10-13,92,2,200
+Sterzing at Barton Springs,2018-10-06,78,3,278
+Stolen,2017-03-18,1,1,1
+Toomey Rd @ South Lamar,2015-03-14,50,1,50
+Toomey Rd @ South Lamar,2014-10-12,41,2,91
+Toomey Rd @ South Lamar,2014-10-04,38,3,129
+Trinity & 6th Street,2016-03-17,73,1,73
+Trinity & 6th Street,2018-03-14,59,2,132
+Trinity & 6th Street,2016-03-16,55,3,187
+UT West Mall @ Guadalupe,2018-08-30,140,1,140
+UT West Mall @ Guadalupe,2018-03-07,128,2,268
+UT West Mall @ Guadalupe,2018-03-05,121,3,389
+Veterans & Atlanta @ MoPac Ped Bridge,2021-05-15,44,1,44
+Veterans & Atlanta @ MoPac Ped Bridge,2020-09-06,42,2,86
+Veterans & Atlanta @ MoPac Ped Bridge,2022-03-05,42,2,128
+Veterans & Atlanta @ MoPac Ped Bridge,2021-05-29,41,3,169
+Waller & 6th St.,2014-03-15,78,1,78
+Waller & 6th St.,2014-03-14,71,2,149
+Waller & 6th St.,2015-03-19,63,3,212
+Waller & 6th St.,2015-03-15,63,3,275
+West & 6th St.,2016-03-18,54,1,54
+West & 6th St.,2016-03-17,43,2,97
+West & 6th St.,2018-03-10,39,3,136
+Zilker Park,2014-10-11,241,1,241
+Zilker Park,2014-10-12,227,2,468
+Zilker Park,2014-10-10,226,3,694
+Zilker Park,2014-10-04,226,3,920
+Zilker Park West,2015-10-03,165,1,165
+Zilker Park West,2015-10-04,144,2,309
+Zilker Park West,2015-10-02,140,3,449
+cesar Chavez & Congress,2019-12-14,1,1,1
